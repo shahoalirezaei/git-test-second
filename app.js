@@ -9,3 +9,7 @@ const register = ()=> {
 const getMe = (user)=> {
     return 'user';
 }
+
+const addCourse = ()=> {
+    return true;
+}
