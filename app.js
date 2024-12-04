@@ -13,3 +13,7 @@ const getMe = (user)=> {
 const addCourse = ()=> {
     return true;
 }
+
+const test = ()=> {
+    return true
+}
