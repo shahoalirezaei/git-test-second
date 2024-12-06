@@ -1,6 +1,7 @@
 body {
     display: flex;
 }
+<<<<<<< HEAD
 h1 {
     font-size: 1.8rem;
     color: #ceceec;
@@ -9,3 +10,5 @@ h2 {
     color: aqua;
     text-align: center;
 }
+=======
+>>>>>>> c1a1ca5a2fd943142c1b96c1bc20a7dc9e5836cf
