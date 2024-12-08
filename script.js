@@ -13,3 +13,9 @@ const register = (user)=> {
 const getMe = (user) => {
     return user.name;
 };
+
+const number = 1
+
+const getToken = ()=> {
+    return token;
+}
